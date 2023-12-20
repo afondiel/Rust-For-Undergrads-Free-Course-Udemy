@@ -1,10 +1,8 @@
-# Rust For Undergrads Free Course - Udemy + Personal Notes
-
-## Overview
+# Rust For Undergrads - Udemy Free Course + Personal Notes
 
 A deep dive into basics of Rust programming language.
 
-## Course Descriptions
+## Overview
 
 - ~ 2h total video + 29 Lectures
 - Cost: Free
