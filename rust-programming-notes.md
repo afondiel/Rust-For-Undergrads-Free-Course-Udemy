@@ -124,23 +124,30 @@ Where `E0382` is the error id
 - [13 - if-else](./lab/13-if-else/)
 - [14 - While Loops](./lab/14-While-Loops/)
 - [15 - For Loops](./lab/15-For-Loops/) 
+
+## Section 5: Ownership with Rust
+
+- [16 - Ownership](./lab/16-Ownership/) 
 - [17 - Ownership and Borrowing](./lab/17-Ownership-and-Borrowing/) 
-- [18 - race conditions](./lab/18-race-conditions/)
+- [18 - Race Conditions](./lab/18-race-conditions/)
 - [19 - Slices](./lab/19-Slices/)
+
+## Section 6: Data Handling and Pattern Matching in Rust
+
 - [20 - Structs](./lab/20-Structs/)
 - [21 - Structs Example](./lab/21-Structs%20Example/) 
 - [22 - Method Syntax](./lab/22-Method%20Syntax/) 
 - [23 - Enums](./lab/23-Enums/)
 - [24 - Enums with mul types](./lab/24-Enums-With-Mul-types/) 
 - [25 - Pattern Matching](./lab/25-Pattern-Matching/)
+
+## Section 7: Error Handling
+
 - [26 - Unrecoverable errors with panic](./lab/26-Unrecoverable-errors-with-panic/) 
 - [27 - recoverable errors](./lab/27-recoverable%20errors/)
 - [28 - recoverable errors with demo](./lab/28-recoverable-errors-with-demo/)
 
 
-## Section 5: Ownership with Rust
-## Section 6: Data Handling and Pattern Matching in Rust
-## Section 7: Error Handling
 ## Section 8: Conclusion
 
 

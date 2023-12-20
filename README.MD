@@ -7,7 +7,7 @@ A deep dive into basics of Rust programming language.
 - ~ 2h total video + 29 Lectures
 - Cost: Free
 - Certificate: no
-- Instructors: [Jayesh Katta Ramalingaiah (Mozilla Tech Speaker)](https://github.com/jayeshkattar/RustforUndergrads)
+- Instructors: [Jayesh Katta Ramalingaiah (Mozilla Tech Speaker)](https://jayeshkattar.github.io/#home)
 - Level : Beguinner
 
 ## What you’ll learn
@@ -78,3 +78,5 @@ Books:
 - [Computer Science Books on Rust](https://github.com/afondiel/cs-books/tree/main/computer-science/programming/rust)
 
 
+
+> ## "Keep up your bright swords, for the dew will rust them." - William Shakespeare
