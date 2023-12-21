@@ -55,6 +55,9 @@ Documentations:
 - Rust Search Engine Library: https://docs.rs/
 - Rust Doc from your machine: ```rustup doc```: 
 
+Crate and Libraries:
+- [Crate.io - The Rust community’s crate registry](https://crates.io/)
+
 Hands-On:
 - [rust online playground](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021)
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html)
